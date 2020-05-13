@@ -27,7 +27,7 @@ def write_file(some_list):
             rus_f.write(stroka)
 
 
-api_key = 'trnsl.1.1.20191005T145417Z.b8abc2ab0937bfa5.c517dc5e20c65064175cab9a1510c9e644e1098d'
+api_key = 'Insert API KEY'
 a = []
 directory = sys.argv[1]
 find_files(directory)
